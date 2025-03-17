@@ -4,3 +4,4 @@ Then, I staged the file using this command git add feature.txt
 after staging the file, I committed it to the feature-branch using this command
 it commit -m "Added feature.txt for the new feature"
 then i pushed it using this git push -u origin feature-branch
+i learned how to commit,clone,merge,stage,fork and pull
